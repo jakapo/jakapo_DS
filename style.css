@@ -1,0 +1,38 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #424242;
+  width: 100%;
+  line-height: 1.4;
+  margin-left: 15%;
+  width: 100ivw;
+  margin-top: 80px;
+  width:80vw;
+}
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+
+}
+p {
+  letter-spacing: 0;
+  font-family: 'Lora', serif;
+  font-weight: 200;
+  font-size: 18px;
+  width:80vw;
+}
+
+a{
+text-decoration: none;
+weight: bold;
+}
+nav{
+  font-size: 20px;
+  font-weight: 700;
+}
+footer{
+  font-size: 14px;
+}
+
+section{
+  width:100vw;
+  }
