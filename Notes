@@ -5,19 +5,6 @@ Idea:
 - Common elements for all AR apps (AR app family)
 - Pixel art theme
 
-Page structure:
-- About/home
-- Guidelines
-	- Colors
-	- Displaying data
-	- Interactions
-	- Laouyt
-- Components
-	- Navigation bar
-	- Buttons
-	- Overlays
-	- Modals
-
 Tasks:
 - Copy few pages from other design systems
 - Create a simple sketch template of these
